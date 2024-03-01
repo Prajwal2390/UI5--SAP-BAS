@@ -7,7 +7,7 @@ sap.ui.define(["sap/ui/core/ComponentContainer"], function (ComponentContainer) 
       manifest: true,
       async: true,
       settings: {
-        id: "sap.training.exc"
+          id: "sap.training.exc"
       }
   });
   oContainer.placeAt("content");
